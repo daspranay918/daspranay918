@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Coder</h1>
 <h3 align="center">I am coding enthusiast.</h3>
-<img align="right" width="400" alt="coding" src=""C:\Users\PRANAY\Downloads\68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6.gif"
+<img align="right" width="400" alt="coding" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daspranay918&label=Profile%20views&color=0e75b6&style=flat" alt="daspranay918" /> </p>
 
