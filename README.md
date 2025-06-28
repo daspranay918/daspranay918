@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm Pranay — Flutter Developer</h1>
-<h3 align="center">💡 I build modern mobile apps in Flutter & explore Web Dev in my free time</h3>
+<h3 align="center">💡 I build beautiful mobile apps using Flutter & Firebase</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&width=435&lines=Flutter+App+Developer;Firebase+%7C+Dart+%7C+Clean+UI;Exploring+Web+Development;Turning+Ideas+Into+Code+%F0%9F%94%A5" alt="Typing SVG" />
@@ -36,17 +36,17 @@
 ## 🚀 Projects
 
 - 🔐 **VibeLink** – Secure one-to-one chat app using Flutter & Firebase  
-- 🏋️ **FitNex** – AI-powered home workout app *(in development)*  
-- 💬 **Real-time Chat App** – Firebase Auth, Firestore, Dark/Light Mode  
-- 🌐 **Portfolio Website** – Responsive site made with HTML/CSS/JS
+- 🏋️ **FitNex** – AI-powered home workout app *(in progress)*  
+- 💬 **Real-time Chat App** – Firebase Auth + Firestore + Dark UI  
+- 🌐 **Portfolio Website** – Clean site built with HTML/CSS/JS
 
 ---
 
 ## 🌱 Currently Learning
 
-- Flutter Animations (Hero, Tween, Lottie)  
-- AI + Flutter integration  
-- Web APIs & Firebase Cloud Functions  
+- Flutter Animations & UI transitions  
+- AI features inside Flutter apps  
+- Firebase Cloud Functions  
 
 ---
 
@@ -61,10 +61,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daspranay918&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daspranay918&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=daspranay918&theme=tokyonight&hide_border=true&ring=FFD700&fire=FF4500" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daspranay918&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 > 🧠 *"Always learning. Always building."*
-
