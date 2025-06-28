@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Flutter Developer | Firebase Enthusiast | UI/UX Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Crafting+beautiful+Flutter+apps;Connecting+through+Firebase+Realtime;Exploring+AI-powered+features" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Crafting+beautiful+Flutter+apps;Connecting+apps+with+Firebase+Realtime;Exploring+AI-powered+features" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@
 
 ---
 
-### 🌐 Socials
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:daspranay918@gmail.com"><img src="https://img.shields.io/badge/Gmail-daspranay918-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
