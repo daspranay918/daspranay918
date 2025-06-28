@@ -57,8 +57,8 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:daspranay918@gmail.com"><img src="https://img.shields.io/badge/Gmail-daspranay918-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/daspranay9182021"><img src="https://img.shields.io/badge/Instagram-@daspranay9182021-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:dpranay158@gmail.com"><img src="https://img.shields.io/badge/Gmail-daspranay918-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/azillusion2024"><img src="https://img.shields.io/badge/Instagram-@daspranay9182021-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
