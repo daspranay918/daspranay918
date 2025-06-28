@@ -1,76 +1,68 @@
-<h1 align="center">🚀 Hi, I'm Pranay — Flutter Developer</h1>
-<h3 align="center">💡 I build beautiful mobile apps using Flutter & Firebase</h3>
+<h1 align="center">🚀 Hey, I’m <span style="color:#00FFFF;">Pranay</span> — Flutter Dev</h1>
+<h3 align="center">💙 Building elegant mobile experiences using Flutter + Firebase</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&width=435&lines=Flutter+App+Developer;Firebase+%7C+Dart+%7C+Clean+UI;Exploring+Web+Development;Turning+Ideas+Into+Code+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Flutter+App+Developer;Firebase+Enthusiast;Pixel+Perfect+UI+Lover;Learning+AI+with+Flutter" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daspranay918&label=Profile%20views&color=00c6ff&style=flat" alt="daspranay918" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation"/>
 </p>
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-### 💙 Mobile Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
-</p>
-
-### 🌐 Web Development *(Basic Knowledge)*
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🔥 Featured Projects
 
-- 🔐 **VibeLink** – Secure one-to-one chat app using Flutter & Firebase  
-- 🏋️ **FitNex** – AI-powered home workout app *(in progress)*  
-- 💬 **Real-time Chat App** – Firebase Auth + Firestore + Dark UI  
-- 🌐 **Portfolio Website** – Clean site built with HTML/CSS/JS
+| App Name | Tech Stack | Highlights |
+|----------|------------|------------|
+| **VibeLink** | Flutter + Firebase | Secure one-to-one chat with App Lock |
+| **FitNex** | Flutter + AI + Firebase | Smart workout assistant *(in progress)* |
+| **Real-Time Chat App** | Flutter + Firestore | Clean dark UI + instant messaging |
 
 ---
 
-## 🌱 Currently Learning
+## 💡 Current Goals
 
-- Flutter Animations & UI transitions  
-- AI features inside Flutter apps  
-- Firebase Cloud Functions  
+- 🔄 Master **Flutter Animations**  
+- 🧠 Explore **AI Integration** in mobile apps  
+- ☁️ Learn **Firebase Functions**  
 
 ---
 
 ## 📫 Connect With Me
 
-<a href="mailto:daspranay918@gmail.com"><img src="https://img.shields.io/badge/Gmail-daspranay918@gmail.com-red?style=flat&logo=gmail" /></a>  
-<a href="https://instagram.com/daspranay9182021"><img src="https://img.shields.io/badge/Instagram-@daspranay9182021-purple?style=flat&logo=instagram" /></a>
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daspranay918&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=daspranay918&theme=tokyonight&hide_border=true&ring=FFD700&fire=FF4500" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daspranay918&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="mailto:daspranay918@gmail.com"><img src="https://img.shields.io/badge/Gmail-daspranay918@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/daspranay9182021"><img src="https://img.shields.io/badge/Instagram-@daspranay9182021-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-> 🧠 *"Always learning. Always building."*
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daspranay918&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=daspranay918&theme=radical&hide_border=true&ring=00FFFF&fire=00FFFF" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daspranay918&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+> 🧠 *"Code is my canvas. Flutter is my brush. Let’s paint the future."*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
+</p>
