@@ -1,12 +1,12 @@
 <h1 align="center">🚀 Hi, I'm Pranay — Flutter Developer</h1>
-<h3 align="center">🏗️ I build beautiful and functional mobile apps using Flutter & Firebase</h3>
+<h3 align="center">💡 I build modern mobile apps in Flutter & explore Web Dev in my free time</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=true&width=435&lines=Mobile+App+Developer+%7C+Flutter+%2B+Dart;Firebase+%7C+UI+UX+Lover;I+Build+What+I+Imagine!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&width=435&lines=Flutter+App+Developer;Firebase+%7C+Dart+%7C+Clean+UI;Exploring+Web+Development;Turning+Ideas+Into+Code+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="flutter-dev" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
 <p align="center">
@@ -15,38 +15,49 @@
 
 ---
 
-### 💻 Tech Stack
+## 🔧 Tech Stack
 
-<p align="left">
-  <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+### 💙 Mobile Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
+</p>
+
+### 🌐 Web Development *(Basic Knowledge)*
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
 </p>
 
 ---
 
-### 📱 Projects
-- 💬 **Chat App** with Firebase Authentication and Firestore  
-- 🧘‍♂️ **Wellness App** with personalized UI and local assets  
-- 🏋️ **FitNex** – AI-powered home workout app *(Ongoing)*
+## 🚀 Projects
+
+- 🔐 **VibeLink** – Secure one-to-one chat app using Flutter & Firebase  
+- 🏋️ **FitNex** – AI-powered home workout app *(in development)*  
+- 💬 **Real-time Chat App** – Firebase Auth, Firestore, Dark/Light Mode  
+- 🌐 **Portfolio Website** – Responsive site made with HTML/CSS/JS
 
 ---
 
-### 🌱 Currently Learning
-- Advanced Flutter Animations & State Management  
-- AI Integration with Flutter  
-- Firebase Cloud Functions & Firestore rules
+## 🌱 Currently Learning
+
+- Flutter Animations (Hero, Tween, Lottie)  
+- AI + Flutter integration  
+- Web APIs & Firebase Cloud Functions  
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect With Me
 
-- 📧 [daspranay918@gmail.com](mailto:daspranay918@gmail.com)
-- 📸 [Instagram](https://instagram.com/daspranay9182021)
+<a href="mailto:daspranay918@gmail.com"><img src="https://img.shields.io/badge/Gmail-daspranay918@gmail.com-red?style=flat&logo=gmail" /></a>  
+<a href="https://instagram.com/daspranay9182021"><img src="https://img.shields.io/badge/Instagram-@daspranay9182021-purple?style=flat&logo=instagram" /></a>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daspranay918&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -55,8 +66,5 @@
 
 ---
 
-> _“I don’t just code apps, I create user experiences.”_
+> 🧠 *"Always learning. Always building."*
 
----
-
-Would you like to also include **screenshots or demo links** to your apps later? I can help you format that too.
