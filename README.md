@@ -3,7 +3,6 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=00FFFF&center=true&vCenter=true&width=500&lines=Crafting+beautiful+Flutter+apps;Connecting+apps+with+Firebase;Exploring+AI-powered+features" alt="Typing SVG" />
-/>
 </p>
 
 <p align="center">
