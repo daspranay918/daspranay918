@@ -51,10 +51,12 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daspranay918&theme=tokyonight&hide_border=true&ring=00ffff&fire=00ffff" width="48%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daspranay918&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+---
 
 ### 🌐 Connect With Me
 
