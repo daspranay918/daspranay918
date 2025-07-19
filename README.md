@@ -27,20 +27,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
 </p>
-
----
-
-### 💼 Projects Showcase
-
-| 🔥 Project | ⚙️ Tech Stack | ✨ Features |
-|-----------|---------------|------------|
-| **VibeLink** | Flutter + Firebase | Secure 1-1 chat, Google login, fingerprint lock |
-| **FitNex** | Flutter + AI | Workout pose detection, diet planner, profile system |
-| **Simple Chat App** | Flutter + Firebase | Real-time chat, user authentication, modern UI |
 
 ---
 
