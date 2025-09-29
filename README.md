@@ -70,7 +70,7 @@
 
 ### ✨ Quote
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “First, solve the problem. Then, write the code.” – Pranay Das
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
