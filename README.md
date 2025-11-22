@@ -1,41 +1,65 @@
-<h1 align="center">Hi, I'm Pranay 👋</h1>
+<h2 align="center">👋 Hey Everyone, I'm Pranay</h2>
 
-<p align="center">
-  <strong>Flutter Developer | Mobile App Enthusiast | Clean UI/UX Lover</strong>
+<h3 align="center">✨ Welcome to My GitHub Universe! ✨</h3>
+
+---
+
+### 🚀 What I Do
+- 📱 Building Flutter apps that help people every day  
+- 🎨 Focused on clean UI/UX and smooth animations  
+- 🔥 Love working with Flutter, Dart & Firebase  
+- 📘 Always improving and learning something new  
+- 🤝 Open to collaborating on interesting projects  
+- 🧪 Exploring AI-powered features for mobile apps  
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="mailto:daspranay918@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/daspranay9182021"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 📱 Passionate about building beautiful and functional Flutter apps  
-- 🎨 I love clean UI, smooth animations, and great user experiences  
-- 🔥 Skilled in Flutter, Dart, Firebase, REST APIs  
-- 🎯 Currently improving my animation & state management skills  
-- 📩 Reach me at: **daspranay918@gmail.com**
+### 📊 My GitHub Stats
 
----
-
-## 🛠️ Tech Stack
-**Languages & Frameworks:**  
-Flutter • Dart • Firebase • REST API
-
-**Tools:**  
-Android Studio • VS Code • Git • GitHub • Postman
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daspranay918&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daspranay918&layout=compact&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daspranay918&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daspranay918&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
-- 📧 Email: **daspranay918@gmail.com**
-- 📸 Instagram: **@daspranay9182021**
+### 🧠 Languages & Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,mysql,postman" />
+</p>
 
 ---
 
-Thanks for visiting my profile! 😊
+### 🔥 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daspranay918&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+### 🏆 Achievements (Auto from GitHub)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daspranay918&theme=tokyonight&no-frame=true" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daspranay918&theme=github-dark" />
+</p>
+
+---
+
+### ✨ Thanks for Visiting!
+<p align="center">💙 Keep coding. Keep creating. Keep growing.</p>
