@@ -1,67 +1,76 @@
-<h2 align="center">👋 Hey Everyone, I'm Pranay</h2>
-<h3 align="center">✨ Welcome to My GitHub Universe! ✨</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#00FFFF;">Pranay Das</span></h1>
+<h3 align="center">🚀 Flutter Developer | Firebase Enthusiast | UI/UX Lover</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=00FFFF&center=true&vCenter=true&width=500&lines=Flutter+App+Developer;Firebase+Integration+Expert;Clean+UI+UX+Design+Lover;AI-powered+Features+Explorer" />
+</p>
 
-## 🚀 What I Do
-- 📱 Building Flutter apps that help people every day  
-- 🎨 Focused on clean UI/UX and smooth animations  
-- 🔥 Passionate about Flutter, Dart & Firebase  
-- 📘 Always learning something new in mobile development  
-- 🤝 Open to collaborating on interesting projects  
-- 🤖 Exploring AI-powered features for mobile apps  
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="mailto:daspranay918@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/daspranay9182021"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/pranay-das-38a62a0249/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
 ---
 
-## 📊 My GitHub Stats
+## 🚀 About Me
+
+- 🧠 **Currently Learning:** Flutter Animations, Firebase Cloud Functions  
+- 💬 **Ask me about:** Flutter, Firebase, Dart, Clean UI Design  
+- 📱 **Focus:** Chat Apps, Fitness Apps, AI Integration  
+- 📫 **Reach me:** **daspranay918@gmail.com**
+
+---
+
+## 🔧 Tech Stack
+
 <p align="center">
-
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=daspranay918&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-
-  <!-- Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daspranay918&theme=tokyonight&hide_border=true" width="45%" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
 </p>
 
 ---
 
-## 🧠 Languages & Tools I Use
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,mysql,postman" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=daspranay918&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="49%" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daspranay918&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
----
-
-## 🔥 Most Used Languages
 <p align="center">
+  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daspranay918&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daspranay918&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <a href="mailto:daspranay918@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-daspranay918-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/daspranay9182021" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@daspranay9182021-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## ✨ Quote
+
+> “First, solve the problem. Then, write the code.” – **Pranay Das**
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daspranay918&theme=github-dark&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 </p>
-
----
-
-<h3 align="center">✨ Thanks for Visiting! ✨</h3>
-<p align="center">💙 Keep coding. Keep creating. Keep growing.</p>
