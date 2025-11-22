@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Flutter Developer | Firebase Enthusiast | UI/UX Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=00FFFF&center=true&vCenter=true&width=500&lines=Flutter+App+Developer;Firebase+Integration+Expert;Clean+UI+UX+Design+Lover;AI-powered+Features+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=00FFFF&center=true&vCenter=true&width=500&lines=Flutter+App+Developer;Firebase+Integration+Expert;Clean+UI+UX+Design+Lover;AI-powered+Features+Explorer" />
 </p>
 
 <p align="center">
@@ -13,10 +13,10 @@
 
 ### 🚀 About Me
 
-- 🧠 **Currently Learning**: Flutter Animations, Firebase Cloud Functions  
+- 🧠 **Learning**: Flutter Animations, Firebase Cloud Functions  
 - 💬 **Ask me about**: Flutter, Firebase, Dart, Clean UI  
-- 📱 **Focus**: One-to-one Chat Apps, Fitness Apps, AI Integration  
-- 📫 **Reach me**: daspranay918@gmail.com
+- 📱 **Focus Areas**: Chat Apps, Fitness Apps, AI Integration  
+- 📫 **Email**: **daspranay918@gmail.com**
 
 ---
 
@@ -29,24 +29,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="48" height="48" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" />
-
 </p>
-
-
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=daspranay918&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daspranay918&theme=tokyonight&hide_border=true&ring=00ffff&fire=00ffff" width="48%" />
+
 </p>
 
 <p align="center">
@@ -61,6 +59,7 @@
   <a href="mailto:daspranay918@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-daspranay918-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://instagram.com/daspranay9182021" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@daspranay9182021-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -70,7 +69,7 @@
 
 ### ✨ Quote
 
-> “First, solve the problem. Then, write the code.” – Pranay Das
+> “First, solve the problem. Then, write the code.” – **Pranay Das**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
