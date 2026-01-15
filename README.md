@@ -38,7 +38,10 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=torvalds)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=daspranay918&show_icons=true&count_private=true&cache_seconds=86400)
+
+![Streak](https://streak-stats.demolab.com?user=daspranay918&cache_seconds=86400)
 
 
 
