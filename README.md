@@ -39,10 +39,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daspranay918&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daspranay918" height="160"/>
-</p>
+![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=daspranay918&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=daspranay918)
+
+## 🧩 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daspranay918&layout=compact)
+
 
 ---
 
