@@ -39,9 +39,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=daspranay918&show_icons=true&count_private=true&cache_seconds=86400)
+![Profile](https://img.shields.io/github/followers/daspranay918?label=Followers)
+![Stars](https://img.shields.io/github/stars/daspranay918?label=Stars)
 
-![Streak](https://streak-stats.demolab.com?user=daspranay918&cache_seconds=86400)
 
 
 
