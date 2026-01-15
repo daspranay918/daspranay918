@@ -38,14 +38,8 @@
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=torvalds)
 
-![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=daspranay918&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=daspranay918)
-
-## 🧩 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daspranay918&layout=compact)
 
 
 ---
